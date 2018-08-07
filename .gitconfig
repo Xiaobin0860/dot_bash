@@ -186,6 +186,6 @@
 
 	insteadOf = "gist:"
 
-[user]¬
-▸ name = xl000¬
-▸ email = l_xb@foxmail.com
+[user]
+	name = xl000
+	email = l_xb@foxmail.com
